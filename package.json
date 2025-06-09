@@ -1,0 +1,30 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "description": "[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyitsSaint/heyitssaint.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyitsSaint/heyitssaint.github.io/issues"
+  },
+  "homepage": "https://github.com/HeyitsSaint/heyitssaint.github.io#readme",
+  "dependencies": {
+    "tinacms": "^2.7.8"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.9.8",
+    "@types/node": "^22.15.30"
+  }
+}
